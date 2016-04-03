@@ -11,6 +11,9 @@ I've gave the name "Softylity" for this program. (Software + Utility!)
 
 This app is primarily intended for simpler software installation. In near feature I intend to add some more functionality in this app.
 
+
+
+
 **Source Code**
 
 **It's open source!**
@@ -54,11 +57,11 @@ If these are not installed, following **[**these**](http://askubuntu.com/questio
 **How to?**
 
 -  **Adding Repository:**  Just enter the repository address (e.g **ppa:notepadqq-team/notepadqq)**.Then click on "Add repo and update" button.
-It'll add the repository and update the package information list. If you click the button without supplying any repository address, then  **Softylity ** will just update the package information list!
-- **Adding Key (Optional):**** Just enter the key address (e.g **[**http://deb.opera.com/archive**](http://deb.opera.com/archive)**. ****key**** ) ****.Then click on "Add Key" button.**
+It'll add the repository and update the package information list. If you click the button without supplying any repository address, then Softylity will just update the package information list!
+- **Adding Key (Optional):** Just enter the key address (e.g**http://deb.opera.com/archive.key)**.Then click on "Add Key" button.
 It'll download the key file (in a temp folder) and add the key. Then it'll remove the downloaded key file as it's no longer needed!
--  **Installing a package:****  Just enter the package name (e.g  ****notepadqq**** ) ****.Then click on "Install Package" button.**
-It'll  **install ** the package!
+-  **Installing a package:** Just enter the package name (e.g  **notepadqq** ).Then click on "Install Package" button.**
+It'll install the package!
 -  **Un Installing a package:****  Just enter the package name (e.g  ****notepadqq**** ) ****.Then click on "Uninstall Package" button.**
 It'll  **install ** the package! If you want to remove the dependencies as well, just check the " **w/ Dis" ** checkbox!
 -  **One click Installation:**  Fill up the repository field (if needed), fill up the key address (if needed) and fill up the package name field (required) and then click " **Add repository and install" ** button.
