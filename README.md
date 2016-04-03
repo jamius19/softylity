@@ -53,7 +53,7 @@ If these are not installed, following **[**these**](http://askubuntu.com/questio
 
 **How to?**
 
--  **Adding Repository:****  Just enter the repository address (e.g ****ppa:notepadqq-team/notepadqq)****.Then click on "Add repo and update" button.**
+-  **Adding Repository:**  Just enter the repository address (e.g **ppa:notepadqq-team/notepadqq)**.Then click on "Add repo and update" button.
 It'll add the repository and update the package information list. If you click the button without supplying any repository address, then  **Softylity ** will just update the package information list!
 - **Adding Key (Optional):**** Just enter the key address (e.g **[**http://deb.opera.com/archive**](http://deb.opera.com/archive)**. ****key**** ) ****.Then click on "Add Key" button.**
 It'll download the key file (in a temp folder) and add the key. Then it'll remove the downloaded key file as it's no longer needed!
