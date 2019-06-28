@@ -47,6 +47,7 @@ It'll add the repository (if given), key (if given), and will install the packag
 - In the  **About & Settings**  Tab, you can change your password and reset all the the application!
 
 
-**Screenshots**
+Screenshots
+---
 ![screenshot1](https://i.imgur.com/hPImrNH.png)
 ![screenshot2](https://i.imgur.com/MGAXo0X.png)
